@@ -1,0 +1,4 @@
+this is the text file which i had created at the first
+by the linex touch method 
+
+news api key : 017f42cda16b4638a560f795d523e6c5
